@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently studying in Bilkent University 
-### 🌱 My department is computer engineering
+### 🌱 My department is Computer Engineering
 <!--
 **berfinortulu/berfinortulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
